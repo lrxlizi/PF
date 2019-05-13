@@ -1,0 +1,23 @@
+
+platform :ios, '8.0'
+inhibit_all_warnings!
+target 'ProjectFramework' do
+   
+   pod 'SDWebImage'
+   pod 'AFNetworking'
+   pod 'RTRootNavigationController'
+  #检测网络状态
+    pod 'Reachability', '~> 3.2'
+ #自动布局
+    pod 'Masonry', '~> 0.6.4'
+ #解决键盘遮挡输入框
+    pod 'IQKeyboardManager'
+ #数据容错处理
+    pod 'JKDataHelper'
+ #JSON解析
+    pod 'JSONKit', '~> 1.5pre'
+    pod 'MJExtension'
+    pod 'MJRefresh'	
+    pod 'MBProgressHUD'
+    pod 'AVOSCloud'  
+end

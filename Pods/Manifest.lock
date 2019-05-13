@@ -1,0 +1,78 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AVOSCloud (11.4.7)
+  - IQKeyboardManager (6.2.0)
+  - JKDataHelper (0.1.11)
+  - JSONKit (1.5pre)
+  - Masonry (0.6.4)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.7)
+  - Reachability (3.2)
+  - RTRootNavigationController (0.7.1):
+    - RTRootNavigationController/Core (= 0.7.1)
+  - RTRootNavigationController/Core (0.7.1)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AVOSCloud
+  - IQKeyboardManager
+  - JKDataHelper
+  - JSONKit (~> 1.5pre)
+  - Masonry (~> 0.6.4)
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - Reachability (~> 3.2)
+  - RTRootNavigationController
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AVOSCloud
+    - IQKeyboardManager
+    - JKDataHelper
+    - JSONKit
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - Reachability
+    - RTRootNavigationController
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AVOSCloud: e1257f9a7c28e04ae8642d554a37654e8392d1b7
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  JKDataHelper: 18fc640b0b2db67d23fae9daaf418218900f5f5a
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RTRootNavigationController: afa6913402be26f8326f7f37fc1550aa67baddcc
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+
+PODFILE CHECKSUM: 628e984c33e1f35ebe8723fd862ed90c23f2b888
+
+COCOAPODS: 1.5.3

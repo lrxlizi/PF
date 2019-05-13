@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>class</key>
+		<string>LZHomeViewController</string>
+		<key>storyBoardID</key>
+		<string>lzHomeViewController</string>
+		<key>title</key>
+		<string>首页</string>
+		<key>image</key>
+		<string>homepage</string>
+		<key>selectedImage</key>
+		<string>homepage_sel</string>
+		<key>badgeValue</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>class</key>
+		<string>LZMYViewController</string>
+		<key>storyBoardID</key>
+		<string>lzMYViewController</string>
+		<key>title</key>
+		<string>我的</string>
+		<key>image</key>
+		<string>my</string>
+		<key>selectedImage</key>
+		<string>my_sel</string>
+		<key>badgeValue</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>
