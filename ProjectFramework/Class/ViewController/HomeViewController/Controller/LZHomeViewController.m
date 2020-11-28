@@ -21,7 +21,11 @@
     NSLog(@"测试数据是否成功");
     NSLog(@"冲突设置");
     NSLog(@"7890");
+<<<<<<< HEAD
     NSLog(@"file2");
+=======
+    NSLog(@"file1");
+>>>>>>> ec59502cd5ad4a41e291160ed14b604b6bf383e5
 }
 
 /*
