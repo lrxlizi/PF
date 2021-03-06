@@ -20,6 +20,9 @@
     
     NSLog(@"测试数据是否成功");
     NSLog(@"冲突设置");
+    NSString *string1 = [NSString stringWithFormat:@"第一次提交"];
+    NSString *string2 = [NSString stringWithFormat:@"第二次提交"];
+
 }
 
 /*
